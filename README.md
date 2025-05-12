@@ -1,11 +1,19 @@
 <div align='center'>
-  
-# SelfHost-DL
 
-<p>SelfHost-DL is my project that lets users self-host a simple web downloader with minimal setup. Just run it with Node.js—no third-party services needed. Deploy the files, start the server, and download content easily. Perfect for a lightweight, self-managed solution.</p>
+<br />
+<div align="center">
+  <a href="https://files.catbox.moe/6xogr9.svg">
+    <img src="https://files.catbox.moe/6xogr9.svg" alt="Logo" width="80" height="80">
+  </a>
+
+  <h3 align="center">selfhost-dl</h3>
+
+  <p align="center">
+    <strong>SelfHost-DL is my project that lets users self-host a simple web downloader with minimal setup. Just run it with Node.js—no third-party services needed. Deploy the files, start the server, and download content easily. Perfect for a lightweight, self-managed solution..</strong>
+  </p>
 </div>
 
----------------
+
 
 <div align='center'>
 
@@ -14,6 +22,9 @@
 ![GitHub watchers](https://img.shields.io/github/watchers/000mistra000/selfhost-dl?style=for-the-badge)
 ![GitHub issues](https://img.shields.io/github/issues/000mistra000/selfhost-dl?style=for-the-badge)
 ![GitHub license](https://img.shields.io/github/license/000mistra000/selfhost-dl?style=for-the-badge)
+
+---------------
+### **THIS CODE IS FOR EDUCATIONAL PURPOSES ONLY, USE IT WISELY, ANY MISUSE IS NOT THE RESPONSIBILITY OF THE CREATOR.**  
 
 # SCREENSHOT
 
@@ -30,6 +41,7 @@
     <img src="https://i.ibb.co/5X0n9yDj/Screenshot-2025-02-16-120836.png" alt="Screenshot-2025-02-16-120836" border="0">
   </a>
 </p>
+</div>
 
 ---------------
 
