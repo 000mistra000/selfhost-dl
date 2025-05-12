@@ -2,8 +2,8 @@
 
 <br />
 <div align="center">
-  <a href="https://files.catbox.moe/6xogr9.svg">
-    <img src="https://files.catbox.moe/6xogr9.svg" alt="Logo" width="80" height="80">
+  <a href="https://i.ibb.co.com/dzwGWVw/download.png">
+    <img src="https://i.ibb.co.com/dzwGWVw/download.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">selfhost-dl</h3>
